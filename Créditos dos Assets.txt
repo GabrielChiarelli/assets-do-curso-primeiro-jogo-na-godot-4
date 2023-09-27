@@ -1,0 +1,13 @@
+Links para os assets :)
+
+Gráficos:
+Simplified Platformer Pack [ kenney ] - https://kenney.nl/assets/simplified-platformer-pack
+Background Elements Redux [ kenney ] - https://kenney.nl/assets/background-elements-redux
+
+Font:
+Font Balsamiq Sans [ Michael Angeles ] - https://fonts.google.com/?query=Michael+Angeles
+
+Sons:
+Som da Moeda (Coin Pickup) [ Phenala ] - https://freesound.org/people/Phenala/sounds/478647/
+Música de Fundo (ChipScape) [ chasersgaming ] - https://opengameart.org/content/chipscape
+Som de Game Over (game over) [ Leszek_Szary ] - https://freesound.org/people/Leszek_Szary/sounds/133283/
